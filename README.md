@@ -1,5 +1,1 @@
-- Hi, I’m @Klingh a Game programmer with a bachelor degree in informatics/game development.
-- I’m interested in games, technology, and food.
-- I’m currently looking for work.
-- You can always reach out to me on my mail. John@klingh.dev
-- Check out my portfolio at klingh.dev
+
